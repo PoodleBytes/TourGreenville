@@ -9,7 +9,7 @@ public class FragmentHelper extends FragmentPagerAdapter {
 
     private Context mContext;
 
-    public FragmentHelper(Context context, FragmentManager fm) {
+    private FragmentHelper(Context context, FragmentManager fm) {
         super(fm);
         mContext = context;
     }
