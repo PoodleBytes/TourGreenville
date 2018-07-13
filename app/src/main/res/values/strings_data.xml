@@ -113,5 +113,20 @@
     <string name="venue_14_phone">864.288.6470</string>
     <string name="venue_14_mapurl">https:\\grvlsc.maps.arcgis.com/apps/Viewer/index.html?appid=2694122b8aa44295b8a523560129daf5</string>
     <string name="venue_14_web">https:\\greenvillerec.com/ghs.swamp.rabbit.trail/</string>
-
+    <!-- venue_15 : The Shops at Greenridge -->
+    <string name="venue_15_name">The Shops at Greenridge</string>
+    <string name="venue_15_category">Shopping</string>
+    <string name="venue_15_text">Open-Air market in Greenville. This is a great shopping center located on the worst road ever. There are plenty of stores here to appeal to anyone and the shopping center itself has lots of shade, nice walkways, and is generally just a nice place to hang out. I just wish they had more entrances and exits especially not on Woodruff.</string>
+    <string name="venue_15_address">1125 Woodruff Rd, Greenville, SC</string>
+    <string name="venue_15_phone">864.297.4950</string>
+    <string name="venue_15_mapurl">https://goo.gl/maps/kCJKgGW6AcG2</string>
+    <string name="venue_15_web">http://www.shopgreenridge.com/</string>
+    <!-- venue_16 : Haywood Mall -->
+    <string name="venue_16_name">Haywood Mall</string>
+    <string name="venue_16_category">Shopping</string>
+    <string name="venue_16_text">Haywood Mall is a shopping mall in Greenville, South Carolina, United States. The mall is the largest in the state, with 1,300,000 square feet (120,000 m2) of retail space. The super-regional mall opened in 1980 at the intersection of Haywood Road and I-385/Golden Strip Freeway. Haywoods anchor stores include Belk, Dillard's, JCPenney, Macy's and Sears. The mall also features an Apple Store and a large Victoria's Secret Store. Since its 1995 renovation, the mall has been L-shaped.</string>
+    <string name="venue_16_address">700 Haywood Rd, Greenville, SC</string>
+    <string name="venue_16_phone">864.288.0512</string>
+    <string name="venue_16_mapurl">https://goo.gl/maps/y4PvTcR7Uv92</string>
+    <string name="venue_16_web">http://www.simon.com/mall/haywood-mall</string>
 </resources>

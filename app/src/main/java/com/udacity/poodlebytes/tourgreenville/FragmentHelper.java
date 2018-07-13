@@ -23,6 +23,8 @@ public class FragmentHelper extends FragmentPagerAdapter {
                 return new EatFragment();
             case 2:
                 return new StayFragment();
+            case 3:
+                return new ShopFragment();
             default:
                 return null;
         }
@@ -30,7 +32,7 @@ public class FragmentHelper extends FragmentPagerAdapter {
 
     @Override
     public int getCount(){
-        return 3;
+        return 4;
     }
 
     @Override
@@ -42,6 +44,8 @@ public class FragmentHelper extends FragmentPagerAdapter {
                 return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.stay);
             case 2:
                 return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.eat);
+            case 3:
+                return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.shop);
             default:
                 return null;
         }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.CardView
+<android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -9,6 +9,8 @@
     android:layout_marginTop="@dimen/cardMargin"
     android:layout_marginStart="@dimen/cardMargin"
     android:layout_marginEnd="@dimen/cardMargin"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="8dp"
     tools:ignore="ContentDescription"
     android:foreground="?attr/selectableItemBackground"
     android:stateListAnimator="@animator/lift_on_touch"
