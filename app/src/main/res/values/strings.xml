@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Tour Greenville SC</string>
-    <string name="todo">Activities</string>
-    <string name="eat">Restaurants</string>
-    <string name="stay">Lodging</string>
-    <string name="shop">Shopping</string>
+    <string name="todo">Do</string>
+    <string name="eat">Dine</string>
+    <string name="stay">Stay</string>
+    <string name="shop">Shop</string>
 
 </resources>

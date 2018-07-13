@@ -9,7 +9,7 @@ public class FragmentHelper extends FragmentPagerAdapter {
 
     private Context mContext;
 
-    private FragmentHelper(Context context, FragmentManager fm) {
+    public FragmentHelper(Context context, FragmentManager fm) {
         super(fm);
         mContext = context;
     }
@@ -22,9 +22,9 @@ public class FragmentHelper extends FragmentPagerAdapter {
             case 1:
                 return new EatFragment();
             case 2:
-                return new StayFragment();
-            case 3:
                 return new ShopFragment();
+            case 3:
+                return new StayFragment();
             default:
                 return null;
         }
@@ -41,11 +41,11 @@ public class FragmentHelper extends FragmentPagerAdapter {
             case 0:
                 return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.todo);
             case 1:
-                return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.stay);
-            case 2:
                 return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.eat);
-            case 3:
+            case 2:
                 return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.shop);
+            case 3:
+                return com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.stay);
             default:
                 return null;
         }

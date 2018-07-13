@@ -12,7 +12,7 @@
     <!-- venue_2 : Passerelle Bistro -->
     <string name="venue_2_name">Passerelle Bistro</string>
     <string name="venue_2_category">Dining</string>
-    <string name="venue_2_text">Passerelle Bistro is a casual French.style bistro located at the base of the Liberty Bridge in the heart of Falls Park. The inviting eatery serves a menu of chef.inspired French fare with a local twist created by Chef Teryi, whose innovative take on traditional dishes like ratatouille (served as a brie cheese and crab béchamel omelet) bring diners back again and again.</string>
+    <string name="venue_2_text">Passerelle Bistro is a casual French.style bistro located at the base of the Liberty Bridge in the heart of Falls Park. The inviting eatery serves a menu of chef.inspired French fare with a local twist created by Chef Teryi</string>
     <string name="venue_2_address">601 South Main Street, Greenville, SC</string>
     <string name="venue_2_phone">864.509.0142</string>
     <string name="venue_2_mapurl">https:\\goo.gl/maps/8Qq9aA2gXfr</string>
@@ -20,7 +20,7 @@
     <!-- venue_3 : Sobys -->
     <string name="venue_3_name">Sobys</string>
     <string name="venue_3_category">Dining</string>
-    <string name="venue_3_text">Located in a renovated 1800s historic cotton mill in downtown Greenville, Soby’s is one of Greenville’s favorite restaurants, whether for a family dinner of an office celebration. Brick walls, gleaming wood, and a beautifully restored stone fireplace create a warm and unique atmosphere, while the spacious outdoor patio is a great spot for people watching. Soby’s offers New South Cuisine, an imaginative blend of American traditional food blended with Southern ingredients and flavors. Soby’s award.winning wine list contains over 500 bottles, something for every taste and pocket. Sunday brunch at Soby’s is one of Greenville’s favorite traditions, with a large selection of the restaurant’s favorites offered buffet style and $3 Bloody Marys and mimosas. </string>
+    <string name="venue_3_text">Located in a renovated 1800s historic cotton mill in downtown Greenville, Soby’s is one of Greenville’s favorite restaurants, whether for a family dinner of an office celebration. Brick walls, gleaming wood, and a beautifully restored stone fireplace.</string>
     <string name="venue_3_address">207 South Main Street, Greenville, SC</string>
     <string name="venue_3_phone">864.232.7007</string>
     <string name="venue_3_mapurl">https:\\goo.gl/maps/CothDjk2Eu12</string>
@@ -28,7 +28,7 @@
     <!-- venue_4 : The Orchard Inn -->
     <string name="venue_4_name">The Orchard Inn</string>
     <string name="venue_4_category">Stay</string>
-    <string name="venue_4_text">An elegant mountain retreat near Asheville, local wineries, scenic waterfalls, the Blue Ridge Parkway the Flat Rock Playhouse and the Biltmore Estate. Golfers have exclusive access to Kenmure Country Club in Flat Rock. Exciting kayaking, river rafting, biking, hiking and fly fishing. Affordable rooms upstairs in the Inn, intimate cottages with fireplaces and jacuzzi tubs, and beautiful gardens make it perfect for romantic weekends, family reunions, girlfriend getaways, or destination weddings. A private entertainment room downstairs is ideal for small corporate meetings and executive retreats. Sumptuous breakfasts and fine dining restaurant with Saludas best view, featuring local organic always creative gourmet fare. Extensive private reserve wine list. Listed on the National Register of Historic Places and member of Select Registry.</string>
+    <string name="venue_4_text">An elegant mountain retreat near Asheville, local wineries, scenic waterfalls, the Blue Ridge Parkway the Flat Rock Playhouse and the Biltmore Estate. Golfers have exclusive access to Kenmure Country Club in Flat Rock. Exciting kayaking, river rafting, biking, hiking and fly fishing. </string>
     <string name="venue_4_address">100 Orchard Inn Lane, Saluda, NC</string>
     <string name="venue_4_phone">828.749.5471</string>
     <string name="venue_4_mapurl">https:\\goo.gl/maps/EzQYWMCUZV12</string>
@@ -36,7 +36,7 @@
     <!-- venue_5 : 1906 Pine Crest Inn -->
     <string name="venue_5_name">1906 Pine Crest Inn</string>
     <string name="venue_5_category">Stay</string>
-    <string name="venue_5_text">Indulge in affordable elegance, gourmet dining, and Southern hospitality at the 1906 Pine Crest Inn and Restaurant located in historic Tryon, North Carolina. The 1906 Pine Crest Inn is a relaxing, intimate country inn that captivated and inspired F. Scott Fitzgerald and Ernest Hemingway. Located on 10 beautifully landscaped acres near Asheville, this National Historic Registry English.style retreat offers charming rooms, luxurious suites and private cottages, most with fireplaces and all with private baths. Carters Tavern and Wine Cellar features casual fine dining with regional accents and organic ingredients complimented by Wine Spectators Best of Award of Excellence wine cellar. Our 3.course breakfast was twice named “Best in the Southeast.” A modern conference center is ideal for corporate meetings and events. It is perfect for wedding receptions as well. Our beautiful gardens set the stage for a romantic wedding in the mountains of Western North Carolina. Plan your next romantic weekend, family reunion, girlfriend getaway, destination wedding or corporate retreat at the 1906 Pine Crest Inn and Restaurant. Enjoy local wineries, scenic waterfalls or the Biltmore Estate. Inquire about our wine tastings, pet friendly accommodations and specials.</string>
+    <string name="venue_5_text">Indulge in affordable elegance, gourmet dining, and Southern hospitality at the 1906 Pine Crest Inn and Restaurant located in historic Tryon, North Carolina. The 1906 Pine Crest Inn is a relaxing, intimate country inn that captivated and inspired F. Scott Fitzgerald and Ernest Hemingway.</string>
     <string name="venue_5_address">85 Pine Crest Lane , Tryon, NC</string>
     <string name="venue_5_phone">800.633.3001</string>
     <string name="venue_5_mapurl">https:\\goo.gl/maps/Fkj3ziKf3rq</string>
@@ -44,7 +44,7 @@
     <!-- venue_6 : The Red Horse Inn -->
     <string name="venue_6_name">The Red Horse Inn</string>
     <string name="venue_6_category">Stay</string>
-    <string name="venue_6_text">A stately bed and breakfast Inn located on 190 mountain view acres with six romantic Victorian style cottages (with pet.friendly available). For your romantic getaway weekend or as the ultimate wedding venue, experience the award.winning Red Horse Inn! Each cottage has a bedroom, bath, kitchen, living room with fireplace, decks or patios, TV and AC. Three have sleeping lofts and whirlpool bath tubs. Three cottages have private outdoor hot tubs. There are also six romantic rooms in the main Inn. We are located off the Scenic Route 11 within minutes of some of the finest SC parks. We are in the middle of fox hunting country which takes place in the fall to early spring. Our area boasts golfing, tennis, antiquing, sporting clays, hunting and fishing. The Flatrock Playhouse and The Peace Center offer professional performing arts productions, or our guests can simply relax and consume the refreshing mountain views from rocking chairs on the porch. We supply a breakfast basket with muffins or croissants, fruit and juice, coffee and all condiments.</string>
+    <string name="venue_6_text">A stately bed and breakfast Inn located on 190 mountain view acres with six romantic Victorian style cottages (with pet.friendly available). For your romantic getaway weekend or as the ultimate wedding venue, experience the award.winning Red Horse Inn! </string>
     <string name="venue_6_address">45 Winstons Chase Court , Landrum, SC</string>
     <string name="venue_6_phone">864.909.1575</string>
     <string name="venue_6_mapurl">https:\\goo.gl/maps/94PVBaHERAt</string>
@@ -52,7 +52,7 @@
     <!-- venue_7 : Artisphere -->
     <string name="venue_7_name">Artisphere</string>
     <string name="venue_7_category">ToDo</string>
-    <string name="venue_7_text">Aiming to entertain, educate, enrich, and inspire audiences through the beauty and diversity of art, the festival features various attractions, including University demonstrations, wine and craft beer exhibitions, science, technology, and engineering displays, culinary arts demos, and a special exhibition center for children called Kidsphere.</string>
+    <string name="venue_7_text">Aiming to entertain, educate, enrich, and inspire audiences through the beauty and diversity of art, the festival features various attractions, including University demonstrations, wine and craft beer exhibitions, science, technology, and engineering displays., culinary arts demos, and a special exhibition center for children called Kidsphere.</string>
     <string name="venue_7_address">101 Augusta St, Greenville, SC 29601</string>
     <string name="venue_7_phone">864.271.9398</string>
     <string name="venue_7_mapurl">https:\\goo.gl/maps/Xkfebca2L9q</string>
@@ -60,7 +60,7 @@
     <!-- venue_8 : The Childrens Museum of the Upstate -->
     <string name="venue_8_name">The Childrens Museum of the Upstate</string>
     <string name="venue_8_category">ToDo</string>
-    <string name="venue_8_text">The Children’s Museum of the Upstate aims to provide children with opportunities for exploring, questioning, discovering, and inspiring curiosity through a range of exhibitions, displays, programs, and workshops. Interactive exhibits at the museum include the Reedy River Bed, which features an intricate system of waterways, pipes, and fountains and Start Your Engines, an exhibit that explores the science of speed, sound, and aerodynamics.</string>
+    <string name="venue_8_text">The Children’s Museum of the Upstate aims to provide children with opportunities for exploring, questioning, discovering, and inspiring curiosity through a range of exhibitions, displays, programs, and workshops. Interactive exhibits at the museum include the Reedy River Bed, which features an intricate system of waterways, pipes, and fountains and Start Your Engines., an exhibit that explores the science of speed, sound, and aerodynamics.</string>
     <string name="venue_8_address">300 College Street, Greenville, SC</string>
     <string name="venue_8_phone">864.233.7755</string>
     <string name="venue_8_mapurl">https:\\goo.gl/maps/VZqXs2hvurs</string>
@@ -116,7 +116,7 @@
     <!-- venue_15 : The Shops at Greenridge -->
     <string name="venue_15_name">The Shops at Greenridge</string>
     <string name="venue_15_category">Shopping</string>
-    <string name="venue_15_text">Open-Air market in Greenville. This is a great shopping center located on the worst road ever. There are plenty of stores here to appeal to anyone and the shopping center itself has lots of shade, nice walkways, and is generally just a nice place to hang out. I just wish they had more entrances and exits especially not on Woodruff.</string>
+    <string name="venue_15_text">Open-Air market in Greenville. This is a great shopping center located on the worst road ever. There are plenty of stores here to appeal to anyone and the shopping center itself has lots of shade, nice walkways, and is generally just a nice place to hang out. </string>
     <string name="venue_15_address">1125 Woodruff Rd, Greenville, SC</string>
     <string name="venue_15_phone">864.297.4950</string>
     <string name="venue_15_mapurl">https://goo.gl/maps/kCJKgGW6AcG2</string>
@@ -124,9 +124,10 @@
     <!-- venue_16 : Haywood Mall -->
     <string name="venue_16_name">Haywood Mall</string>
     <string name="venue_16_category">Shopping</string>
-    <string name="venue_16_text">Haywood Mall is a shopping mall in Greenville, South Carolina, United States. The mall is the largest in the state, with 1,300,000 square feet (120,000 m2) of retail space. The super-regional mall opened in 1980 at the intersection of Haywood Road and I-385/Golden Strip Freeway. Haywoods anchor stores include Belk, Dillard's, JCPenney, Macy's and Sears. The mall also features an Apple Store and a large Victoria's Secret Store. Since its 1995 renovation, the mall has been L-shaped.</string>
+    <string name="venue_16_text">Haywood Mall is a shopping mall in Greenville, South Carolina, United States. The mall is the largest in the state, with 1,300,000 square feet (120,000 m2) of retail space. </string>
     <string name="venue_16_address">700 Haywood Rd, Greenville, SC</string>
     <string name="venue_16_phone">864.288.0512</string>
     <string name="venue_16_mapurl">https://goo.gl/maps/y4PvTcR7Uv92</string>
     <string name="venue_16_web">http://www.simon.com/mall/haywood-mall</string>
+
 </resources>

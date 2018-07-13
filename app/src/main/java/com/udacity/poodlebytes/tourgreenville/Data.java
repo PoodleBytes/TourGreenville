@@ -10,13 +10,14 @@ import java.util.ArrayList;
  *
  */
 public class Data extends ArrayList {
-    private ArrayList<DataSchema> Stay = new ArrayList<>();     //venue 1-3
-    private ArrayList<DataSchema> ToDo = new ArrayList<>();   //venue 4-6
-    private ArrayList<DataSchema> Eat = new ArrayList<>();  //venue 7-14
+    private ArrayList<DataSchema> Eat = new ArrayList<>();  //venue 1-3
+    private ArrayList<DataSchema> Stay = new ArrayList<>();     //venue 4-6
+    private ArrayList<DataSchema> ToDo = new ArrayList<>();   //venue 7-14
     private ArrayList<DataSchema> Shop = new ArrayList<>();  //venue 15-16
 
-    public ArrayList<DataSchema> getStay() {
-        Stay.add(new DataSchema(
+
+    public ArrayList<DataSchema> getEat() {
+        Eat.add(new DataSchema(
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_1_name),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_1_category),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_1_text),
@@ -26,7 +27,7 @@ public class Data extends ArrayList {
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_1_web),
                 R.drawable.venue_1));
 
-        Stay.add(new DataSchema(
+        Eat.add(new DataSchema(
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_2_name),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_2_category),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_2_text),
@@ -36,7 +37,7 @@ public class Data extends ArrayList {
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_2_web),
                 R.drawable.venue_2));
 
-        Stay.add(new DataSchema(
+        Eat.add(new DataSchema(
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_3_name),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_3_category),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_3_text),
@@ -45,11 +46,12 @@ public class Data extends ArrayList {
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_3_mapurl),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_3_web),
                 R.drawable.venue_3));
-        return Stay;
-    }//end Stay
+        return Eat;
+    }//end Eat
 
-    public ArrayList<DataSchema> getEat() {
-        Eat.add(new DataSchema(
+
+    public ArrayList<DataSchema> getStay() {
+        Stay.add(new DataSchema(
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_4_name),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_4_category),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_4_text),
@@ -78,8 +80,10 @@ public class Data extends ArrayList {
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_6_mapurl),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_6_web),
                 R.drawable.venue_6));
-        return Eat;
+
+        return Stay;
     }//end Stay
+
 
     public ArrayList<DataSchema> getToDo() {
         ToDo.add(new DataSchema(
@@ -151,6 +155,7 @@ public class Data extends ArrayList {
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_14_mapurl),
                 com.udacity.poodlebytes.tourgreenville.App.getContext().getResources().getString(R.string.venue_14_web),
                 R.drawable.venue_14));
+
         return ToDo;
     }
 
@@ -177,4 +182,5 @@ public class Data extends ArrayList {
 
         return Shop;
     }
+
 }//end Data class
