@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- venue_1 : Larkins on the River -->
+    <string name="venue_1_name">Larkins on the River</string>
+    <string name="venue_1_category">Dining</string>
+    <string name="venue_1_text">Located on the banks of the Reedy River in a historic pre.civil war building with exposed brick walls and open ceilings, Larkin’s on the River is an award.winning restaurant owned and managed by Mark and Larkin Hammond.</string>
+    <string name="venue_1_address">318 S. Main Street, Greenville, SC</string>
+    <string name="venue_1_phone">864.467.9777</string>
+    <string name="venue_1_mapurl">https:\\goo.gl/maps/2u31W7sMG942</string>
+    <string name="venue_1_web">https:\\www.larkinsontheriver.com/</string>
+    <!-- venue_2 : Passerelle Bistro -->
+    <string name="venue_2_name">Passerelle Bistro</string>
+    <string name="venue_2_category">Dining</string>
+    <string name="venue_2_text">Passerelle Bistro is a casual French.style bistro located at the base of the Liberty Bridge in the heart of Falls Park. The inviting eatery serves a menu of chef.inspired French fare with a local twist created by Chef Teryi, whose innovative take on traditional dishes like ratatouille (served as a brie cheese and crab béchamel omelet) bring diners back again and again.</string>
+    <string name="venue_2_address">601 South Main Street, Greenville, SC</string>
+    <string name="venue_2_phone">864.509.0142</string>
+    <string name="venue_2_mapurl">https:\\goo.gl/maps/8Qq9aA2gXfr</string>
+    <string name="venue_2_web">http:\\www.passerelleinthepark.com/</string>
+    <!-- venue_3 : Sobys -->
+    <string name="venue_3_name">Sobys</string>
+    <string name="venue_3_category">Dining</string>
+    <string name="venue_3_text">Located in a renovated 1800s historic cotton mill in downtown Greenville, Soby’s is one of Greenville’s favorite restaurants, whether for a family dinner of an office celebration. Brick walls, gleaming wood, and a beautifully restored stone fireplace create a warm and unique atmosphere, while the spacious outdoor patio is a great spot for people watching. Soby’s offers New South Cuisine, an imaginative blend of American traditional food blended with Southern ingredients and flavors. Soby’s award.winning wine list contains over 500 bottles, something for every taste and pocket. Sunday brunch at Soby’s is one of Greenville’s favorite traditions, with a large selection of the restaurant’s favorites offered buffet style and $3 Bloody Marys and mimosas. </string>
+    <string name="venue_3_address">207 South Main Street, Greenville, SC</string>
+    <string name="venue_3_phone">864.232.7007</string>
+    <string name="venue_3_mapurl">https:\\goo.gl/maps/CothDjk2Eu12</string>
+    <string name="venue_3_web">http:\\sobys.com/</string>
+    <!-- venue_4 : The Orchard Inn -->
+    <string name="venue_4_name">The Orchard Inn</string>
+    <string name="venue_4_category">Stay</string>
+    <string name="venue_4_text">An elegant mountain retreat near Asheville, local wineries, scenic waterfalls, the Blue Ridge Parkway the Flat Rock Playhouse and the Biltmore Estate. Golfers have exclusive access to Kenmure Country Club in Flat Rock. Exciting kayaking, river rafting, biking, hiking and fly fishing. Affordable rooms upstairs in the Inn, intimate cottages with fireplaces and jacuzzi tubs, and beautiful gardens make it perfect for romantic weekends, family reunions, girlfriend getaways, or destination weddings. A private entertainment room downstairs is ideal for small corporate meetings and executive retreats. Sumptuous breakfasts and fine dining restaurant with Saludas best view, featuring local organic always creative gourmet fare. Extensive private reserve wine list. Listed on the National Register of Historic Places and member of Select Registry.</string>
+    <string name="venue_4_address">100 Orchard Inn Lane, Saluda, NC</string>
+    <string name="venue_4_phone">828.749.5471</string>
+    <string name="venue_4_mapurl">https:\\goo.gl/maps/EzQYWMCUZV12</string>
+    <string name="venue_4_web">https:\\orchardinn.com/</string>
+    <!-- venue_5 : 1906 Pine Crest Inn -->
+    <string name="venue_5_name">1906 Pine Crest Inn</string>
+    <string name="venue_5_category">Stay</string>
+    <string name="venue_5_text">Indulge in affordable elegance, gourmet dining, and Southern hospitality at the 1906 Pine Crest Inn and Restaurant located in historic Tryon, North Carolina. The 1906 Pine Crest Inn is a relaxing, intimate country inn that captivated and inspired F. Scott Fitzgerald and Ernest Hemingway. Located on 10 beautifully landscaped acres near Asheville, this National Historic Registry English.style retreat offers charming rooms, luxurious suites and private cottages, most with fireplaces and all with private baths. Carters Tavern and Wine Cellar features casual fine dining with regional accents and organic ingredients complimented by Wine Spectators Best of Award of Excellence wine cellar. Our 3.course breakfast was twice named “Best in the Southeast.” A modern conference center is ideal for corporate meetings and events. It is perfect for wedding receptions as well. Our beautiful gardens set the stage for a romantic wedding in the mountains of Western North Carolina. Plan your next romantic weekend, family reunion, girlfriend getaway, destination wedding or corporate retreat at the 1906 Pine Crest Inn and Restaurant. Enjoy local wineries, scenic waterfalls or the Biltmore Estate. Inquire about our wine tastings, pet friendly accommodations and specials.</string>
+    <string name="venue_5_address">85 Pine Crest Lane , Tryon, NC</string>
+    <string name="venue_5_phone">800.633.3001</string>
+    <string name="venue_5_mapurl">https:\\goo.gl/maps/Fkj3ziKf3rq</string>
+    <string name="venue_5_web">https:\\www.pinecrestinn.com/en.us</string>
+    <!-- venue_6 : The Red Horse Inn -->
+    <string name="venue_6_name">The Red Horse Inn</string>
+    <string name="venue_6_category">Stay</string>
+    <string name="venue_6_text">A stately bed and breakfast Inn located on 190 mountain view acres with six romantic Victorian style cottages (with pet.friendly available). For your romantic getaway weekend or as the ultimate wedding venue, experience the award.winning Red Horse Inn! Each cottage has a bedroom, bath, kitchen, living room with fireplace, decks or patios, TV and AC. Three have sleeping lofts and whirlpool bath tubs. Three cottages have private outdoor hot tubs. There are also six romantic rooms in the main Inn. We are located off the Scenic Route 11 within minutes of some of the finest SC parks. We are in the middle of fox hunting country which takes place in the fall to early spring. Our area boasts golfing, tennis, antiquing, sporting clays, hunting and fishing. The Flatrock Playhouse and The Peace Center offer professional performing arts productions, or our guests can simply relax and consume the refreshing mountain views from rocking chairs on the porch. We supply a breakfast basket with muffins or croissants, fruit and juice, coffee and all condiments.</string>
+    <string name="venue_6_address">45 Winstons Chase Court , Landrum, SC</string>
+    <string name="venue_6_phone">864.909.1575</string>
+    <string name="venue_6_mapurl">https:\\goo.gl/maps/94PVBaHERAt</string>
+    <string name="venue_6_web">https:\\www.theredhorseinn.com/</string>
+    <!-- venue_7 : Artisphere -->
+    <string name="venue_7_name">Artisphere</string>
+    <string name="venue_7_category">ToDo</string>
+    <string name="venue_7_text">Aiming to entertain, educate, enrich, and inspire audiences through the beauty and diversity of art, the festival features various attractions, including University demonstrations, wine and craft beer exhibitions, science, technology, and engineering displays, culinary arts demos, and a special exhibition center for children called Kidsphere.</string>
+    <string name="venue_7_address">101 Augusta St, Greenville, SC 29601</string>
+    <string name="venue_7_phone">864.271.9398</string>
+    <string name="venue_7_mapurl">https:\\goo.gl/maps/Xkfebca2L9q</string>
+    <string name="venue_7_web">https:\\artisphere.org/</string>
+    <!-- venue_8 : The Childrens Museum of the Upstate -->
+    <string name="venue_8_name">The Childrens Museum of the Upstate</string>
+    <string name="venue_8_category">ToDo</string>
+    <string name="venue_8_text">The Children’s Museum of the Upstate aims to provide children with opportunities for exploring, questioning, discovering, and inspiring curiosity through a range of exhibitions, displays, programs, and workshops. Interactive exhibits at the museum include the Reedy River Bed, which features an intricate system of waterways, pipes, and fountains and Start Your Engines, an exhibit that explores the science of speed, sound, and aerodynamics.</string>
+    <string name="venue_8_address">300 College Street, Greenville, SC</string>
+    <string name="venue_8_phone">864.233.7755</string>
+    <string name="venue_8_mapurl">https:\\goo.gl/maps/VZqXs2hvurs</string>
+    <string name="venue_8_web">http:\\www.tcmupstate.org/</string>
+    <!-- venue_9 : Falls Park on the Reedy -->
+    <string name="venue_9_name">Falls Park on the Reedy</string>
+    <string name="venue_9_category">ToDo</string>
+    <string name="venue_9_text">Falls Park on the Reedy is an exquisite natural oasis in the heart of the city that is one of Greenvilles greatest treasures. Located in downtown Greenvilles Historic West End, this well.maintained city park offers a green urban space for both locals and visitors to enjoy and is one of the best things to do in Greenville, South Carolina.</string>
+    <string name="venue_9_address">601 S Main St, Greenville, SC</string>
+    <string name="venue_9_phone">864.232.2273</string>
+    <string name="venue_9_mapurl">https:\\goo.gl/maps/G6qvBvwpBex</string>
+    <string name="venue_9_web">http:\\www.fallspark.com/</string>
+    <!-- venue_10 : Greenville County Museum of Art -->
+    <string name="venue_10_name">Greenville County Museum of Art</string>
+    <string name="venue_10_category">ToDo</string>
+    <string name="venue_10_text">The Greenville County Museum of Art (GCMA) is considered to be one of the top art museums in the country and is one of the best things to see in Greenville, South Carolina. It mainly features American art, with a particular focus on Southern American and South Carolina.based artists.</string>
+    <string name="venue_10_address">420 College Street, Greenville, SC</string>
+    <string name="venue_10_phone">864.271.7570</string>
+    <string name="venue_10_mapurl">https:\\goo.gl/maps/VXcshwF9Uc12</string>
+    <string name="venue_10_web">http:\\gcma.org/</string>
+    <!-- venue_11 : Greenville Glides -->
+    <string name="venue_11_name">Greenville Glides</string>
+    <string name="venue_11_category">ToDo</string>
+    <string name="venue_11_text">Explore the city of Greenville on a Segway! Segway tours are offered year round seven days a week, and they explore several different parts of the city. The Historic West End and Falls Park Tour allows you to explore the bustling energy of Greenville as you cruise through downtown Greenville to the historic West End and wind along the Swamp Rabbit Trail and Falls Park.</string>
+    <string name="venue_11_address">233 North Main St., Greenville, SC</string>
+    <string name="venue_11_phone">888.614.3162</string>
+    <string name="venue_11_mapurl">https:\\goo.gl/maps/yAfL3gesc5t</string>
+    <string name="venue_11_web">http:\\www.greenvillesegwaytours.com/</string>
+    <!-- venue_12 : The Peace Center -->
+    <string name="venue_12_name">The Peace Center</string>
+    <string name="venue_12_category">ToDo</string>
+    <string name="venue_12_text">Situated next to Falls Park in the heart of Greenville, the Peace Center is a renowned cultural center and hub for the performing arts. Featuring a 2,100.seat concert hall, a 400.seat theater, and a state.of.the.art amphitheater, the Peace Center plays host to more than 300 events each year, from nationally.acclaimed Broadway shows to classical music concerts and international ballets.</string>
+    <string name="venue_12_address">300 South Main Street, Greenville, SC</string>
+    <string name="venue_12_phone">864.467.3000</string>
+    <string name="venue_12_mapurl">https:\\goo.gl/maps/axhWUUmcPoG2</string>
+    <string name="venue_12_web">https:\\www.peacecenter.org/</string>
+    <!-- venue_13 : Roper Mountain Science Center -->
+    <string name="venue_13_name">Roper Mountain Science Center</string>
+    <string name="venue_13_category">ToDo</string>
+    <string name="venue_13_text">The Roper Mountain Science Center is a learning center dedicated to encouraging and inspiring an interest in science, from life and natural sciences to space and physical sciences.</string>
+    <string name="venue_13_address">402 Roper Mountain Road, Greenville, SC</string>
+    <string name="venue_13_phone">864.355.8900 </string>
+    <string name="venue_13_mapurl">https:\\goo.gl/maps/xMXBDXiZsdT2</string>
+    <string name="venue_13_web">https:\\www.ropermountain.org/</string>
+    <!-- venue_14 : Swamp Rabbit Trail -->
+    <string name="venue_14_name">Swamp Rabbit Trail</string>
+    <string name="venue_14_category">ToDo</string>
+    <string name="venue_14_text">The Swamp Rabbit Trail is a 28.6.mile (46.0 km) multi.use trail system that winds its way along the Reedy River, connecting various sections of the city and offering an array of recreational and outdoor activities.</string>
+    <string name="venue_14_address">Cleveland Park Dr, Greenville, SC</string>
+    <string name="venue_14_phone">864.288.6470</string>
+    <string name="venue_14_mapurl">https:\\grvlsc.maps.arcgis.com/apps/Viewer/index.html?appid=2694122b8aa44295b8a523560129daf5</string>
+    <string name="venue_14_web">https:\\greenvillerec.com/ghs.swamp.rabbit.trail/</string>
+
+</resources>
